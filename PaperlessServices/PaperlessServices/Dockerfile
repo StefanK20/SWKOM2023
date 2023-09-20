@@ -8,7 +8,7 @@ EXPOSE 443
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 
 WORKDIR /src
-COPY ["PaperlessServices/PaperlessServices.csproj", "PaperlessServices/"]
+COPY ["PaperlessServices/PaperlessServices/PaperlessServices.csproj", "PaperlessServices/"]
 
 RUN dotnet restore "PaperlessServices/PaperlessServices.csproj"
 COPY . .

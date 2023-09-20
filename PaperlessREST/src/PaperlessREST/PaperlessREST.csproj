@@ -7,10 +7,10 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PreserveCompilationContext>true</PreserveCompilationContext>
     <Version>1.0.0</Version>
-    <AssemblyName>Org.OpenAPITools</AssemblyName>
-    <PackageId>Org.OpenAPITools</PackageId>
+    <AssemblyName>PaperlessREST</AssemblyName>
+    <PackageId>PaperlessREST</PackageId>
     <UserSecretsId>77b0d011-ad0e-440d-9eba-f32a04ba4ce9</UserSecretsId>
-    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>..\..</DockerfileContext>
   </PropertyGroup>
   <ItemGroup>

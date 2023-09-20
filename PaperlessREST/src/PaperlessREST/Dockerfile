@@ -11,22 +11,22 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 
 # Copy the code into the container
 WORKDIR /src
-COPY ["src/Org.OpenAPITools/Org.OpenAPITools.csproj", "Org.OpenAPITools/"]
+COPY ["src/PaperlessREST/PaperlessREST.csproj", "PaperlessREST/"]
 
 # NuGet restore
-RUN dotnet restore "Org.OpenAPITools/Org.OpenAPITools.csproj"
-COPY ["src/Org.OpenAPITools/", "Org.OpenAPITools/"]
+RUN dotnet restore "PaperlessREST/PaperlessREST.csproj"
+COPY ["src/PaperlessREST/", "PaperlessREST/"]
 
 # Build the API
-WORKDIR "Org.OpenAPITools"
-RUN dotnet build "Org.OpenAPITools.csproj" -c Release -o /app/build
+WORKDIR "PaperlessREST"
+RUN dotnet build "PaperlessREST.csproj" -c Release -o /app/build
 
 # Publish it
 FROM build AS publish
-RUN dotnet publish "Org.OpenAPITools.csproj" -c Release -o /app/publish
+RUN dotnet publish "PaperlessREST.csproj" -c Release -o /app/publish
 
 # Make the final image for publishing
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "Org.OpenAPITools.dll"]
+ENTRYPOINT ["dotnet", "PaperlessREST.dll"]

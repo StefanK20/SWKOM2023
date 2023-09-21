@@ -1,21 +1,18 @@
 services:
   paperless-rest:
-    build:
-      dockerfile: PaperlessREST/PaperlessREST/Dockerfile
+    build: PaperlessREST/PaperlessREST/
     ports:
       - 9000:80
       - 9001:443
 
   paperless-services:
-    build:
-      dockerfile: PaperlessServices/PaperlessServices/Dockerfile
+    build: PaperlessServices/PaperlessServices/
     ports:
       - 9002:80
       - 9003:443
 
   file-storage-service:
-    build:
-      dockerfile: FileStorageService/FileStorageService/Dockerfile
+    build: FileStorageService/FileStorageService/
     ports:
       - 9004:80
       - 9005:443

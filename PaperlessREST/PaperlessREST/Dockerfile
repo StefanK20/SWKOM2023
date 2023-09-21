@@ -11,14 +11,12 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 
 # Copy the code into the container
 WORKDIR /src
-COPY ["PaperlessREST/PaperlessREST/PaperlessREST.csproj", "PaperlessREST/"]
+COPY ["PaperlessREST.csproj", "PaperlessREST/"]
 
 # NuGet restore
 RUN dotnet restore "PaperlessREST/PaperlessREST.csproj"
-COPY . .
-
-# Build the API
 WORKDIR "/src/PaperlessREST"
+COPY . .
 RUN dotnet build "PaperlessREST.csproj" -c Release -o /app/build
 
 # Publish it

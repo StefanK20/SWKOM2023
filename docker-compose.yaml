@@ -1,6 +1,6 @@
 services:
   paperless-rest:
-    build: PaperlessREST/PaperlessREST/
+    build: Project/PaperlessREST/
     ports:
       - 9000:80
       - 9001:443

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TPApQ5n7GsrjQFH7goliY6GoahuVVm84EguE5htL9A476PH0faVhzZSL6CRx7Sbq8aSPMap4vrnwvjhJOTo1jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\Web-Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

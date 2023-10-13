@@ -5,14 +5,8 @@ services:
       - 9000:80
       - 9001:443
 
-  paperless-services:
-    build: PaperlessServices/PaperlessServices/
+  web-server:
+    build: Project/Web-Server/
     ports:
       - 9002:80
       - 9003:443
-
-  file-storage-service:
-    build: FileStorageService/FileStorageService/
-    ports:
-      - 9004:80
-      - 9005:443

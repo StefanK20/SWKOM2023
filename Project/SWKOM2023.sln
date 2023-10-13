@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaperlessREST", "PaperlessREST\PaperlessREST.csproj", "{4353A960-F820-47CD-814C-943F3263C572}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web-Server", "Web-Server\Web-Server\Web-Server.csproj", "{D3AD1E2D-5F76-4521-85FA-C406300337BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web-Server", "Web-Server\Web-Server.csproj", "{C053A1ED-610E-4712-9975-3D0464B9C8B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{4353A960-F820-47CD-814C-943F3263C572}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4353A960-F820-47CD-814C-943F3263C572}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4353A960-F820-47CD-814C-943F3263C572}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D3AD1E2D-5F76-4521-85FA-C406300337BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3AD1E2D-5F76-4521-85FA-C406300337BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3AD1E2D-5F76-4521-85FA-C406300337BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3AD1E2D-5F76-4521-85FA-C406300337BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C053A1ED-610E-4712-9975-3D0464B9C8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C053A1ED-610E-4712-9975-3D0464B9C8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C053A1ED-610E-4712-9975-3D0464B9C8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C053A1ED-610E-4712-9975-3D0464B9C8B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

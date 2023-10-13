@@ -1,344 +1,100 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Web-Server.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Web-Server.bundle.scp.css"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\LICENSE",
+      "PackagePath": "staticwebassets"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\assets\\bootstrap-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\assets\\document.png",
+      "PackagePath": "staticwebassets\\assets\\document.png"
+    },
+    {
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\assets\\js\\pdf.worker.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pdf.worker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\assets\\logo-dark-notext.svg",
+      "PackagePath": "staticwebassets\\assets\\logo-dark-notext.svg"
+    },
+    {
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\assets\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\logo-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\assets\\logo-notext.svg",
+      "PackagePath": "staticwebassets\\assets\\logo-notext.svg"
+    },
+    {
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\assets\\logo-white-notext.svg",
+      "PackagePath": "staticwebassets\\assets\\logo-white-notext.svg"
+    },
+    {
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\assets\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\logo.svg"
     },
     {
       "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\main.js.map",
+      "PackagePath": "staticwebassets\\main.js.map"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\openapi.json",
+      "PackagePath": "staticwebassets\\openapi.json"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\polyfills.js",
+      "PackagePath": "staticwebassets\\polyfills.js"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\polyfills.js.map",
+      "PackagePath": "staticwebassets\\polyfills.js.map"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\runtime.js",
+      "PackagePath": "staticwebassets\\runtime.js"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\runtime.js.map",
+      "PackagePath": "staticwebassets\\runtime.js.map"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\styles.css.map",
+      "PackagePath": "staticwebassets\\styles.css.map"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\vendor.js",
+      "PackagePath": "staticwebassets\\vendor.js"
     },
     {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\LICENSE",
-      "PackagePath": "staticwebassets\\static"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\apple-touch-icon.png",
-      "PackagePath": "staticwebassets\\static\\apple-touch-icon.png"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\assets\\bootstrap-icons.svg",
-      "PackagePath": "staticwebassets\\static\\assets\\bootstrap-icons.svg"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\assets\\document.png",
-      "PackagePath": "staticwebassets\\static\\assets\\document.png"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\assets\\js\\pdf.worker.min.js",
-      "PackagePath": "staticwebassets\\static\\assets\\js\\pdf.worker.min.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\assets\\logo-dark-notext.svg",
-      "PackagePath": "staticwebassets\\static\\assets\\logo-dark-notext.svg"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\assets\\logo-dark.svg",
-      "PackagePath": "staticwebassets\\static\\assets\\logo-dark.svg"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\assets\\logo-notext.svg",
-      "PackagePath": "staticwebassets\\static\\assets\\logo-notext.svg"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\assets\\logo-white-notext.svg",
-      "PackagePath": "staticwebassets\\static\\assets\\logo-white-notext.svg"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\assets\\logo.svg",
-      "PackagePath": "staticwebassets\\static\\assets\\logo.svg"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\favicon.ico",
-      "PackagePath": "staticwebassets\\static\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\index.html",
-      "PackagePath": "staticwebassets\\static\\index.html"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\main.js",
-      "PackagePath": "staticwebassets\\static\\main.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\main.js.map",
-      "PackagePath": "staticwebassets\\static\\main.js.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\manifest.webmanifest",
-      "PackagePath": "staticwebassets\\static\\manifest.webmanifest"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\openapi.json",
-      "PackagePath": "staticwebassets\\static\\openapi.json"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\polyfills.js",
-      "PackagePath": "staticwebassets\\static\\polyfills.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\polyfills.js.map",
-      "PackagePath": "staticwebassets\\static\\polyfills.js.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\runtime.js",
-      "PackagePath": "staticwebassets\\static\\runtime.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\runtime.js.map",
-      "PackagePath": "staticwebassets\\static\\runtime.js.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\styles.css",
-      "PackagePath": "staticwebassets\\static\\styles.css"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\styles.css.map",
-      "PackagePath": "staticwebassets\\static\\styles.css.map"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\vendor.js",
-      "PackagePath": "staticwebassets\\static\\vendor.js"
-    },
-    {
-      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\static\\vendor.js.map",
-      "PackagePath": "staticwebassets\\static\\vendor.js.map"
+      "Id": "C:\\Users\\stefa\\Documents\\Studium\\SWKOM2023\\Project\\Web-Server\\wwwroot\\vendor.js.map",
+      "PackagePath": "staticwebassets\\vendor.js.map"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Web-Server.Microsoft.AspNetCore.StaticWebAssets.props",

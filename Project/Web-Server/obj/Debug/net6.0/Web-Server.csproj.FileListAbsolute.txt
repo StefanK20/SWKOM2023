@@ -43,8 +43,6 @@ C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\W
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\Web-Server.AssemblyInfo.cs
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\Web-Server.csproj.CoreCompileInputs.cache
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\Web-Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\Web-Server.RazorAssemblyInfo.cache
-C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\Web-Server.RazorAssemblyInfo.cs
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\staticwebassets\msbuild.Web-Server.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Web-Server.props
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web-Server.props
@@ -52,9 +50,7 @@ C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\s
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\scopedcss\bundle\Web-Server.styles.css
-C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\scopedcss\projectbundle\Web-Server.bundle.scp.css
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\Web-Server.dll
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\refint\Web-Server.dll
 C:\Users\stefa\Documents\Studium\SWKOM2023\Project\Web-Server\obj\Debug\net6.0\Web-Server.pdb

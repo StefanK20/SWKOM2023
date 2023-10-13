@@ -6,7 +6,9 @@ services:
       - 9001:443
 
   web-server:
+    image: nginx
     build: Project/Web-Server/
     ports:
       - 9002:80
       - 9003:443
+
